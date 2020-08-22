@@ -1,0 +1,12 @@
+body{
+	background-image:url("images.jpg");
+	background-size:cover;
+}
+.box{
+	width:450px;
+	height:350px;
+	border:dotted 20px yellow;
+	margin:50px auto;
+	background-color:pink;
+	background-size:cover;
+}
